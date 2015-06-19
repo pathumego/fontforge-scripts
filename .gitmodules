@@ -1,0 +1,9 @@
+[submodule "python/fontforge-anthozoa"]
+	path = python/fontforge-anthozoa
+	url = https://github.com/davelab6/fontforge-anthozoa
+[submodule "python/fontforge-simplepolator"]
+	path = python/fontforge-simplepolator
+	url = https://github.com/davelab6/fontforge-simplepolator
+[submodule "python/fontforge-font-name-generator"]
+	path = python/fontforge-font-name-generator
+	url = https://github.com/davelab6/fontforge-font-name-generator
